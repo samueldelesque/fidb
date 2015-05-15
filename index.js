@@ -36,6 +36,7 @@ function save_data(symbols,format){
       				sp500.insert(data)
                         }
 			}).on("end", function(){
+                        console.log(now,"Market values recorded.");
 				// tell api test service to not freak out just then.
 			});
 		}
