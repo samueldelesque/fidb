@@ -4,7 +4,6 @@ var Request = require("request"),
 	forEach = require("for-each"),
 	ObjectId = require('mongolian').ObjectId,
 
-
 	dbserver = new Mongolian,
 	db = dbserver.db("fidb"),
 	sp500 = db.collection("sp500"),
@@ -19,15 +18,14 @@ function save_data(symbols,format){
 	if(!symbols||!format)return false
 	Request.get(provider+"f="+format+"&s="+symbols+"&e=.csv", function (error, response, body) {
 		if (!error && response.statusCode == 200) {
-			var now = new Date(),
-				path = "csv/"+savePath(now,"csv")
+			var now = new Date()
 
 			Csv.fromString(body, {headers: [
 				"symbol",
 				"name",
 				"price"
 			]}).on("data", function(data){
-                        if(!data.price || !data.name, || data.symbol){
+                        if(!data.price || !data.name || data.symbol){
                               //freak out
                         }
                         else{
