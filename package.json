@@ -1,0 +1,18 @@
+{
+  "name": "fidb",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "~2.x.x",
+    "mongodb": "~1.x",
+    "mongolian": "~0.1.x",
+    "fast-csv": "~0.6.0",
+    "for-each": "~0.3.x"
+  }
+}

@@ -1,0 +1,500 @@
+"A","Agilent Technologies, Inc. Comm",42.10
+"AA","Alcoa Inc. Common Stock",13.565
+"AAPL","Apple Inc.",128.379
+"ABC","AmerisourceBergen Corporation C",114.45
+"ABT","Abbott Laboratories Common Stoc",48.65
+"ACE","Ace Limited Common Stock",108.25
+"ACN","Accenture plc. Class A Ordinary",96.61
+"ADBE","Adobe Systems Incorporated",78.94
+"ADI","Analog Devices, Inc.",63.02
+"ADM","Archer-Daniels-Midland Company ",52.87
+"ADP","Automatic Data Processing, Inc.",87.66
+"ADSK","Autodesk, Inc.",58.90
+"ADT","ADT Corporation Common Stock",37.97
+"AEE","Ameren Corporation Common Stock",40.476
+"AEP","American Electric Power Company",55.40
+"AES","The AES Corporation Common Stoc",13.64
+"AET","Aetna Inc. Common Stock",112.14
+"AFL","AFLAC Incorporated Common Stock",63.36
+"AGN",N/A,N/A
+"AIG","American International Group, I",58.55
+"AIV","Apartment Investment and Manage",38.285
+"AIZ","Assurant, Inc. Common Stock",65.52
+"AKAM","Akamai Technologies, Inc.",77.76
+"ALL","Allstate Corporation (The) Comm",67.75
+"ALTR","Altera Corporation",44.17
+"ALXN","Alexion Pharmaceuticals, Inc.",161.78
+"AMAT","Applied Materials, Inc.",20.49
+"AMD","Advanced Micro Devices",2.355
+"AMGN","Amgen Inc.",162.765
+"AMP","Ameriprise Financial, Inc. Comm",127.77
+"AMT","American Tower Corporation (REI",95.03
+"AMZN","Amazon.com, Inc.",425.84
+"AN","AutoNation, Inc. Common Stock",62.399
+"ANF","Abercrombie & Fitch Company Com",21.49
+"AON","Aon plc Class A Ordinary Shares",99.655
+"APA","Apache Corporation Common Stock",62.66
+"APC","Anadarko Petroleum Corporation ",84.26
+"APD","Air Products and Chemicals, Inc",148.58
+"APH","Amphenol Corporation Common Sto",57.89
+"APOL","Apollo Education Group, Inc.",16.79
+"ARG","Airgas, Inc. Common Stock",102.905
+"ATI","Allegheny Technologies Incorpor",37.47
+"AVB","AvalonBay Communities, Inc. Com",169.11
+"AVP","Avon Products, Inc. Common Stoc",7.07
+"AVY","Avery Dennison Corporation Comm",60.14
+"AXP","American Express Company Common",80.43
+"AZO","AutoZone, Inc. Common Stock",684.01
+"BA","Boeing Company (The) Common Sto",146.7559
+"BAC","Bank of America Corporation Com",16.35
+"BAX","Baxter International Inc. Commo",69.565
+"BBBY","Bed Bath & Beyond Inc.",69.53
+"BBT","BB&T Corporation Common Stock",38.71
+"BBY","Best Buy Co., Inc. Common Stock",34.61
+"BCR","C.R. Bard, Inc. Common Stock",172.48
+"BDX","Becton, Dickinson and Company C",141.25
+"BEAM",N/A,N/A
+"BEN","Franklin Resources, Inc. Common",51.76
+"BF.B",N/A,N/A
+"BHI","Baker Hughes Incorporated Commo",65.39
+"BIG","Big Lots, Inc. Common Stock",46.34
+"BIIB","Biogen Idec Inc.",393.00
+"BK","Bank of New York Mellon Corpora",43.14
+"BLK","BlackRock, Inc. Common Stock",369.47
+"BLL","Ball Corporation Common Stock",72.82
+"BMC","BMC Software, Inc.",46.30
+"BMS","Bemis Company, Inc. Common Stoc",46.23
+"BMY","Bristol-Myers Squibb Company Co",67.73
+"BRCM","Broadcom Corporation",47.28
+"BRK.B",N/A,N/A
+"BSX","Boston Scientific Corporation C",17.84
+"BTU","Peabody Energy Corporation Comm",4.30
+"BWA","BorgWarner Inc. Common Stock",61.55
+"BXP","Boston Properties, Inc. Common ",135.04
+"C","Citigroup, Inc. Common Stock",54.16
+"CA","CA Inc.",31.76
+"CAG","ConAgra Foods, Inc. Common Stoc",38.27
+"CAH","Cardinal Health, Inc. Common St",87.84
+"CAM","Cameron International Corporati",52.32
+"CAT","Caterpillar, Inc. Common Stock",88.20
+"CB","Chubb Corporation (The) Common ",99.02
+"CBG","CBRE Group Inc Common Stock Cla",38.548
+"CBS","CBS Corporation Class B Common ",59.75
+"CCE","Coca-Cola Enterprises, Inc. Com",46.31
+"CCI","Crown Castle International Corp",83.40
+"CCL","Carnival Corporation Common Sto",47.87
+"CELG","Celgene Corporation",115.63
+"CERN","Cerner Corporation",67.80
+"CF","CF Industries Holdings, Inc. Co",306.10
+"CFN",N/A,N/A
+"CHK","Chesapeake Energy Corporation C",14.71
+"CHRW","C.H. Robinson Worldwide, Inc.",64.6395
+"CI","Cigna Corporation Common Stock",132.2904
+"CINF","Cincinnati Financial Corporatio",50.98
+"CL","Colgate-Palmolive Company Commo",68.58
+"CLF","Cliffs Natural Resources Inc Co",5.61
+"CLX","Clorox Company (The) Common Sto",108.98
+"CMA","Comerica Incorporated Common St",48.15
+"CMCSA","Comcast Corporation",56.4914
+"CME","CME Group Inc.",95.09
+"CMG","Chipotle Mexican Grill, Inc. Co",630.74
+"CMI","Cummins Inc. Common Stock",141.95
+"CMS","CMS Energy Corporation Common S",33.55
+"CNP","CenterPoint Energy, Inc (Holdin",20.22
+"CNX","CONSOL Energy Inc. Common Stock",31.815
+"COF","Capital One Financial Corporati",84.14
+"COG","Cabot Oil & Gas Corporation Com",35.27
+"COH","Coach, Inc. Common Stock",37.56
+"COL","Rockwell Collins, Inc. Common S",97.92
+"COP","ConocoPhillips Common Stock",65.43
+"COST","Costco Wholesale Corporation",144.56
+"COV","Covidien plc. Ordinary Shares (",N/A
+"CPB","Campbell Soup Company Common St",46.66
+"CRM","Salesforce.com Inc Common Stock",73.00
+"CSC","Computer Sciences Corporation C",67.22
+"CSCO","Cisco Systems, Inc.",29.60
+"CSX","CSX Corporation Common Stock",35.25
+"CTAS","Cintas Corporation",85.58
+"CTL","CenturyLink, Inc. Common Stock",34.43
+"CTSH","Cognizant Technology Solutions ",63.21
+"CTXS","Citrix Systems, Inc.",65.90
+"CVC","Cablevision Systems Corporation",20.24
+"CVH",N/A,N/A
+"CVS","CVS Health Corporation Common S",101.61
+"CVX","Chevron Corporation Common Stoc",107.70
+"D","Dominion Resources, Inc. Common",71.91
+"DD","E.I. du Pont de Nemours and Com",70.49
+"DE","Deere & Company Common Stock",88.62
+"DELL",N/A,N/A
+"DF","Dean Foods Company Common Stock",18.95
+"DFS","Discover Financial Services Com",59.68
+"DG","Dollar General Corporation Comm",74.245
+"DGX","Quest Diagnostics Incorporated ",71.77
+"DHI","D.R. Horton, Inc. Common Stock",25.94
+"DHR","Danaher Corporation Common Stoc",86.91
+"DIS","Walt Disney Company (The) Commo",109.94
+"DISCA","Discovery Communications, Inc.",31.45
+"DLTR","Dollar Tree, Inc.",78.08
+"DNB","Dun & Bradstreet Corporation (T",128.39
+"DNR","Denbury Resources Inc. Common S",7.23
+"DO","Diamond Offshore Drilling, Inc.",32.74
+"DOV","Dover Corporation Common Stock",75.86
+"DOW","Dow Chemical Company (The) Comm",51.18
+"DPS","Dr Pepper Snapple Group, Inc Dr",77.4366
+"DRI","Darden Restaurants, Inc. Common",63.79
+"DTE","DTE Energy Company Common Stock",78.58
+"DTV","DIRECTV",91.4401
+"DUK","Duke Energy Corporation (Holdin",76.16
+"DVA","DaVita HealthCare Partners Inc.",81.60
+"DVN","Devon Energy Corporation Common",65.43
+"EA","Electronic Arts Inc.",62.92
+"EBAY","eBay Inc.",59.63
+"ECL","Ecolab Inc. Common Stock",115.95
+"ED","Consolidated Edison, Inc. Commo",61.48
+"EFX","Equifax, Inc. Common Stock",99.27
+"EIX","Edison International Common Sto",60.22
+"EL","Estee Lauder Companies, Inc. (T",88.52
+"EMC","EMC Corporation Common Stock",26.9599
+"EMN","Eastman Chemical Company Common",77.87
+"EMR","Emerson Electric Company Common",60.21
+"EOG","EOG Resources, Inc. Common Stoc",90.08
+"EQR","Equity Residential Common Share",75.34
+"EQT","EQT Corporation Common Stock",89.76
+"ESRX","Express Scripts Holding Company",87.88
+"ESV","Ensco plc Class A Ordinary Shar",25.50
+"ETFC","E*TRADE Financial Corporation",29.14
+"ETN","Eaton Corporation, PLC Ordinary",72.8657
+"ETR","Entergy Corporation Common Stoc",74.81
+"EW","Edwards Lifesciences Corporatio",130.83
+"EXC","Exelon Corporation Common Stock",33.69
+"EXPD","Expeditors International of Was",47.64
+"EXPE","Expedia, Inc.",103.41
+"F","Ford Motor Company Common Stock",15.345
+"FAST","Fastenal Company",42.90
+"FCX","Freeport-McMoRan, Inc. Common S",22.795
+"FDO","Family Dollar Stores, Inc. Comm",78.58
+"FDX","FedEx Corporation Common Stock",173.65
+"FE","FirstEnergy Corporation Common ",35.11
+"FFIV","F5 Networks, Inc.",127.44
+"FHN","First Horizon National Corporat",14.36
+"FII","Federated Investors, Inc. Commo",33.875
+"FIS","Fidelity National Information S",64.42
+"FISV","Fiserv, Inc.",80.75
+"FITB","Fifth Third Bancorp",20.41
+"FLIR","FLIR Systems, Inc.",31.71
+"FLR","Fluor Corporation Common Stock",59.57
+"FLS","Flowserve Corporation Common St",57.10
+"FMC","FMC Corporation Common Stock",58.30
+"FOSL","Fossil Group, Inc.",77.73
+"FRX",N/A,N/A
+"FSLR","First Solar, Inc.",56.62
+"FTI","FMC Technologies, Inc. Common S",41.76
+"FTR","Frontier Communications Corpora",5.52
+"GAS","AGL Resources, Inc. Common Stoc",50.20
+"GCI","Gannett Co., Inc. Common Stock",35.47
+"GD","General Dynamics Corporation Co",140.16
+"GE","General Electric Company Common",27.2801
+"GILD","Gilead Sciences, Inc.",109.99
+"GIS","General Mills, Inc. Common Stoc",56.99
+"GLW","Corning Incorporated Common Sto",21.34
+"GME","Gamestop Corporation Common Sto",39.844
+"GNW","Genworth Financial Inc Common S",7.905
+"GOOG","Google Inc.",531.19
+"GPC","Genuine Parts Company Common St",93.70
+"GPS","Gap, Inc. (The) Common Stock",38.68
+"GS","Goldman Sachs Group, Inc. (The)",202.30
+"GT","The Goodyear Tire & Rubber Comp",30.775
+"GWW","W.W. Grainger, Inc. Common Stoc",244.936
+"HAL","Halliburton Company Common Stoc",46.17
+"HAR","Harman International Industries",126.38
+"HAS","Hasbro, Inc.",72.27
+"HBAN","Huntington Bancshares Incorpora",11.09
+"HCBK","Hudson City Bancorp, Inc.",9.41
+"HCN","Health Care REIT, Inc. Common S",72.52
+"HCP","HCP, Inc. Common Stock",40.08
+"HD","Home Depot, Inc. (The) Common S",112.54
+"HES","Hess Corporation Common Stock",69.11
+"HIG","Hartford Financial Services Gro",41.50
+"HNZ",N/A,N/A
+"HOG","Harley-Davidson, Inc. Common St",55.28
+"HON","Honeywell International Inc. Co",106.43
+"HOT","Starwood Hotels & Resorts World",84.86
+"HP","Helmerich & Payne, Inc. Common ",73.17
+"HPQ","Hewlett-Packard Company Common ",33.36
+"HRB","H&R Block, Inc. Common Stock",31.58
+"HRL","Hormel Foods Corporation Common",56.515
+"HRS","Harris Corporation Common Stock",78.51
+"HSP","Hospira Inc",88.24
+"HST","Host Hotels & Resorts, Inc. Com",20.65
+"HSY","The Hershey Company Common Stoc",96.00
+"HUM","Humana Inc. Common Stock",175.065
+"IBM","International Business Machines",172.984
+"ICE","Intercontinental Exchange Inc. ",239.07
+"IFF","Internationa Flavors & Fragranc",114.99
+"IGT","International Game Technology O",18.43
+"INTC","Intel Corporation",32.80
+"INTU","Intuit Inc.",102.82
+"IP","International Paper Company Com",52.9842
+"IPG","Interpublic Group of Companies,",21.10
+"IR","Ingersoll-Rand plc (Ireland)",70.48
+"IRM","Iron Mountain Incorporated (Del",36.93
+"ISRG","Intuitive Surgical, Inc.",502.32
+"ITW","Illinois Tool Works Inc. Common",96.84
+"IVZ","Invesco Ltd Common Stock",40.66
+"JBL","Jabil Circuit, Inc. Common Stoc",24.27
+"JCI","Johnson Controls, Inc. Common S",50.45
+"JCP","J.C. Penney Company, Inc. Holdi",8.409
+"JDSU","JDS Uniphase Corporation",12.68
+"JEC","Jacobs Engineering Group Inc. C",44.24
+"JNJ","Johnson & Johnson Common Stock",101.81
+"JNPR","Juniper Networks, Inc. Common S",27.285
+"JOY","Joy Global Inc. Common Stock",42.60
+"JPM","JP Morgan Chase & Co. Common St",65.58
+"JWN","Nordstrom, Inc. Common Stock",74.56
+"K","Kellogg Company Common Stock",65.36
+"KEY","KeyCorp Common Stock",14.74
+"KIM","Kimco Realty Corporation Common",24.59
+"KLAC","KLA-Tencor Corporation",60.14
+"KMB","Kimberly-Clark Corporation Comm",111.63
+"KMI","Kinder Morgan, Inc. Common Stoc",42.49
+"KMX","CarMax Inc",72.15
+"KO","Coca-Cola Company (The) Common ",41.495
+"KR","Kroger Company (The) Common Sto",72.8402
+"KRFT","Kraft Foods Group, Inc.",85.11
+"KSS","Kohl's Corporation Common Stock",65.86
+"L","Loews Corporation Common Stock",40.665
+"LEG","Leggett & Platt, Incorporated C",47.19
+"LEN","Lennar Corporation Class A Comm",47.37
+"LH","Laboratory Corporation of Ameri",117.36
+"LIFE",N/A,19.645
+"LLL","L-3 Communications Holdings, In",119.49
+"LLTC","Linear Technology Corporation",46.99
+"LLY","Eli Lilly and Company Common St",72.91
+"LM","Legg Mason, Inc. Common Stock",54.27
+"LMT","Lockheed Martin Corporation Com",192.49
+"LNC","Lincoln National Corporation Co",57.96
+"LO","Lorillard, Inc Common Stock",72.09
+"LOW","Lowe's Companies, Inc. Common S",72.745
+"LRCX","Lam Research Corporation",79.08
+"LSI","LSI Corporation",11.14
+"LTD",N/A,N/A
+"LUK","Leucadia National Corporation C",23.98
+"LUV","Southwest Airlines Company Comm",42.06
+"LYB","LyondellBasell Industries NV Or",103.67
+"M","Macy's Inc Common Stock",64.11
+"MA","Mastercard Incorporated Common ",93.3499
+"MAR","Marriott International - Class ",80.40
+"MAS","Masco Corporation Common Stock",27.0599
+"MAT","Mattel, Inc.",27.05
+"MCD","McDonald's Corporation Common S",98.14
+"MCHP","Microchip Technology Incorporat",49.35
+"MCK","McKesson Corporation Common Sto",239.87
+"MCO","Moody's Corporation Common Stoc",109.14
+"MDLZ","Mondelez International, Inc.",40.37
+"MDT","Medtronic plc. Ordinary Shares",76.27
+"MET","MetLife, Inc. Common Stock",52.43
+"MHP",N/A,N/A
+"MJN","Mead Johnson Nutrition Company ",97.69
+"MKC","McCormick & Company, Incorporat",78.97
+"MMC","Marsh & McLennan Companies, Inc",57.89
+"MMM","3M Company Common Stock",162.98
+"MNST","Monster Beverage Corporation",131.86
+"MO","Altria Group, Inc.",52.69
+"MOLX","Molex Incorporated",38.68
+"MON","Monsanto Company Common Stock",120.17
+"MOS","Mosaic Company (The) Common Sto",46.29
+"MPC","Marathon Petroleum Corporation ",102.81
+"MRK","Merck & Company, Inc. Common St",60.01
+"MRO","Marathon Oil Corporation Common",27.33
+"MS","Morgan Stanley Common Stock",37.83
+"MSFT","Microsoft Corporation",48.34
+"MSI","Motorola Solutions, Inc. Common",59.45
+"MTB","M&T Bank Corporation Common Sto",121.15
+"MU","Micron Technology, Inc.",26.40
+"MUR","Murphy Oil Corporation Common S",44.10
+"MWV","Meadwestvaco Corporation Common",49.79
+"MYL","Mylan Inc.",71.57
+"NBL","Noble Energy Inc. Common Stock",44.45
+"NBR","Nabors Industries Ltd.",15.34
+"NDAQ","The NASDAQ OMX Group, Inc.",51.32
+"NE","Noble Corporation Ordinary Shar",16.91
+"NEE","NextEra Energy, Inc. Common Sto",101.53
+"NEM","Newmont Mining Corporation",27.6174
+"NFLX","Netflix, Inc.",614.5925
+"NFX","Newfield Exploration Company Co",34.50
+"NI","NiSource Inc Common Stock",44.835
+"NKE","Nike, Inc. Common Stock",104.76
+"NOC","Northrop Grumman Corporation Co",157.57
+"NOV","National Oilwell Varco, Inc. Co",50.725
+"NRG","NRG Energy, Inc. Common Stock",25.73
+"NSC","Norfolk Southern Corporation Co",97.40
+"NTAP","NetApp, Inc.",35.515
+"NTRS","Northern Trust Corporation",74.63
+"NU","EVERSOURCE ENERGY",N/A
+"NUE","Nucor Corporation Common Stock",49.45
+"NVDA","NVIDIA Corporation",21.35
+"NWL","Newell Rubbermaid Inc. Common S",39.87
+"NWSA","News Corporation",15.55
+"NYX",N/A,N/A
+"OI","Owens-Illinois, Inc. Common Sto",25.61
+"OKE","ONEOK, Inc. Common Stock",44.96
+"OMC","Omnicom Group Inc. Common Stock",78.03
+"ORCL","Oracle Corporation Common Stock",44.11
+"ORLY","O'Reilly Automotive, Inc.",222.20
+"OXY","Occidental Petroleum Corporatio",76.19
+"PAYX","Paychex, Inc.",49.71
+"PBCT","People's United Financial, Inc.",15.31
+"PBI","Pitney Bowes Inc. Common Stock",22.94
+"PCAR","PACCAR Inc.",66.19
+"PCG","Pacific Gas & Electric Co. Comm",51.85
+"PCL","Plum Creek Timber Company, Inc.",42.1101
+"PCLN","The Priceline Group Inc. ",1195.24
+"PCP","Precision Castparts Corporation",211.69
+"PCS",N/A,N/A
+"PDCO","Patterson Companies, Inc.",46.63
+"PEG","Public Service Enterprise Group",42.65
+"PEP","Pepsico, Inc. Common Stock",97.805
+"PETM","PetSmart, Inc",82.98
+"PFE","Pfizer, Inc. Common Stock",33.985
+"PFG","Principal Financial Group Inc C",51.38
+"PG","Procter & Gamble Company (The) ",80.86
+"PGR","Progressive Corporation (The) C",27.41
+"PH","Parker-Hannifin Corporation Com",122.40
+"PHM","PulteGroup, Inc. Common Stock",19.85
+"PKI","PerkinElmer, Inc. Common Stock",52.09
+"PLD","ProLogis, Inc. Common Stock",40.73
+"PLL","Pall Corporation Common Stock",123.76
+"PM","Philip Morris International Inc",86.24
+"PNC","PNC Financial Services Group, I",94.05
+"PNR","Pentair plc. Ordinary Share",63.87
+"PNW","Pinnacle West Capital Corporati",59.72
+"POM","PEPCO Holdings, Inc Common Stoc",24.568
+"PPG","PPG Industries, Inc. Common Sto",230.30
+"PPL","PP&L Corporation Common Stock",33.83
+"PRGO","Perrigo Company plc Ordinary Sh",193.89
+"PRU","Prudential Financial, Inc. Comm",85.0353
+"PSA","Public Storage Common Stock",199.38
+"PSX","Phillips 66 Common Stock",80.94
+"PWR","Quanta Services, Inc. Common St",29.855
+"PX","Praxair, Inc. Common Stock",122.39
+"PXD","Pioneer Natural Resources Compa",152.56
+"QCOM","QUALCOMM Incorporated",70.94
+"QEP","QEP Resources, Inc. Common Stoc",19.82
+"R","Ryder System, Inc. Common Stock",95.53
+"RAI","Reynolds American Inc Common St",77.31
+"RDC","Rowan Companies plc Class A Ord",22.85
+"RF","Regions Financial Corporation C",10.039
+"RHI","Robert Half International Inc. ",57.13
+"RHT","Red Hat, Inc. Common Stock",77.33
+"RL","Ralph Lauren Corporation Common",133.88
+"ROK","Rockwell Automation, Inc. Commo",123.51
+"ROP","Roper Technologies, Inc. Common",175.33
+"ROST","Ross Stores, Inc.",99.64
+"RRC","Range Resources Corporation Com",60.15
+"RRD","R.R. Donnelley & Sons Company",18.51
+"RSG","Republic Services, Inc. Common ",40.885
+"RTN","Raytheon Company Common Stock",107.37
+"S","Sprint Corporation Common Stock",4.86
+"SAI",N/A,N/A
+"SBUX","Starbucks Corporation",50.61
+"SCG","SCANA Corporation Common Stock",52.67
+"SCHW","Charles Schwab Corporation (The",31.35
+"SE","Spectra Energy Corp Common Stoc",36.28
+"SEE","Sealed Air Corporation Common S",48.86
+"SHW","Sherwin-Williams Company (The) ",292.09
+"SIAL","Sigma-Aldrich Corporation",139.04
+"SJM","J.M. Smucker Company (The) New ",117.92
+"SLB","Schlumberger N.V. Common Stock",91.94
+"SLM","SLM Corporation",10.68
+"SNA","Snap-On Incorporated Common Sto",156.99
+"SNDK","SanDisk Corporation",67.46
+"SNI","Scripps Networks Interactive, I",65.925
+"SO","Southern Company (The) Common S",43.49
+"SPG","Simon Property Group, Inc. Comm",186.035
+"SPLS","Staples, Inc.",16.34
+"SRCL","Stericycle, Inc.",137.12
+"SRE","Sempra Energy Common Stock",106.10
+"STI","SunTrust Banks, Inc. Common Sto",42.21
+"STJ","St. Jude Medical, Inc. Common S",74.09
+"STT","State Street Corporation Common",77.86
+"STX","Seagate Technology.",57.48
+"STZ","Constellation Brands, Inc. Comm",118.00
+"SWK","Stanley Black & Decker, Inc. Co",104.01
+"SWN","Southwestern Energy Company Com",27.57
+"SWY","Safeway Inc.",N/A
+"SYK","Stryker Corporation Common Stoc",95.53
+"SYMC","Symantec Corporation",25.04
+"SYY","Sysco Corporation Common Stock",37.355
+"T","AT&T Inc.",34.1999
+"TAP","Molson Coors Brewing Company Cl",74.88
+"TDC","Teradata Corporation Common Sto",40.22
+"TE","TECO Energy, Inc. Common Stock",18.634
+"TEG","Integrys Energy Group, Inc. Com",71.89
+"TEL","TE Connectivity Ltd. New Switze",70.069
+"TER","Teradyne, Inc. Common Stock",20.72
+"TGT","Target Corporation Common Stock",77.66
+"THC","Tenet Healthcare Corporation Co",48.28
+"TIE",N/A,N/A
+"TIF","Tiffany & Co. Common Stock",87.02
+"TJX","TJX Companies, Inc. (The) Commo",65.74
+"TMK","Torchmark Corporation Common St",56.579
+"TMO","Thermo Fisher Scientific Inc Co",129.98
+"TRIP","TripAdvisor, Inc.",81.99
+"TROW","T. Rowe Price Group, Inc.",81.50
+"TRV","The Travelers Companies, Inc. C",102.77
+"TSN","Tyson Foods, Inc. Common Stock",42.03
+"TSO","Tesoro Corporation Common Stock",91.555
+"TSS","Total System Services, Inc. Com",41.32
+"TWC","Time Warner Cable Inc Common St",155.65
+"TWX","Time Warner Inc. New Common Sto",84.945
+"TXN","Texas Instruments Incorporated",55.48
+"TXT","Textron Inc. Common Stock",46.72
+"TYC","Tyco International plc (Ireland",39.55
+"UNH","UnitedHealth Group Incorporated",118.81
+"UNM","Unum Group Common Stock",34.57
+"UNP","Union Pacific Corporation Commo",103.50
+"UPS","United Parcel Service, Inc. Com",102.24
+"URBN","Urban Outfitters, Inc.",40.08
+"USB","U.S. Bancorp Common Stock",43.935
+"UTX","United Technologies Corporation",118.00
+"V","Visa Inc.",69.65
+"VAR","Varian Medical Systems, Inc. Co",87.26
+"VFC","V.F. Corporation Common Stock",71.26
+"VIAB","Viacom Inc.",65.46
+"VLO","Valero Energy Corporation Commo",59.40
+"VMC","Vulcan Materials Company (Holdi",92.88
+"VNO","Vornado Realty Trust Common Sto",103.00
+"VRSN","VeriSign, Inc.",64.08
+"VTR","Ventas, Inc. Common Stock",69.20
+"VZ","Verizon Communications Inc. Com",49.83
+"WAG","Walgreen Co.",N/A
+"WAT","Waters Corporation Common Stock",130.86
+"WDC","Western Digital Corporation",98.29
+"WEC","Wisconsin Energy Corporation Co",47.75
+"WFC","Wells Fargo & Company Common St",55.52
+"WFM","Whole Foods Market, Inc.",43.05
+"WHR","Whirlpool Corporation Common St",186.5899
+"WIN","Windstream Holdings, Inc.",8.66
+"WLP","ANTHEM, INC.",N/A
+"WM","Waste Management, Inc. Common S",49.89
+"WMB","Williams Companies, Inc. (The) ",53.35
+"WMT","Wal-Mart Stores, Inc. Common St",79.05
+"WPI",N/A,N/A
+"WPO",N/A,N/A
+"WPX","WPX Energy, Inc. Common Stock",13.245
+"WU","Western Union Company (The) Com",21.72
+"WY","Weyerhaeuser Company Common Sto",32.50
+"WYN","Wyndham Worldwide Corp Common  ",87.03
+"WYNN","Wynn Resorts, Limited",106.4152
+"X","United States Steel Corporation",26.04
+"XEL","Xcel Energy Inc. Common Stock",33.63
+"XL","XL Group plc",37.41
+"XLNX","Xilinx, Inc.",45.38
+"XOM","Exxon Mobil Corporation Common ",87.40
+"XRAY","DENTSPLY International Inc.",51.85
+"XRX","Xerox Corporation Common Stock",11.39
+"XYL","Xylem Inc. Common Stock New",36.92
+"YHOO","Yahoo! Inc.",44.82
+"YUM","Yum! Brands, Inc.",93.00
+"ZION","Zions Bancorporation",28.74
+"ZMH","Zimmer Holdings, Inc. Common St",113.57
