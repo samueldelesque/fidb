@@ -25,8 +25,9 @@ function save_data(symbols,format){
 				"name",
 				"price"
 			]}).on("data", function(data){
-                        if(!data.price || !data.name || data.symbol){
+                        if(!data.price || !data.name || !data.symbol){
                               //freak out
+                              console.error("Invalid data received! [alert central]",data);
                         }
                         else{
       				data.price = parseFloat(data.price)
