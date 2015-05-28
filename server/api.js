@@ -37,7 +37,7 @@ server.get("/dayly/sp500", function(req, res, next) {
 					}
 				]
 			},
-			fields = {symbol:1,name:1,price:1}
+			fields = {_id:0,time:0}
 
 
 		// sp500.find(query, { name: 1 }).limit(1).toArray(function(err,data){
@@ -45,10 +45,10 @@ server.get("/dayly/sp500", function(req, res, next) {
 		// 	else console.log(data)
 		// })
 
-		sp500.find(query,fields).limit(500).sort({_id:-1})
+		sp500.find(query,fields).limit(500).sort({time:-1})
 		.toArray(function(err, data){
 			if(err){
-				res.statusCode	 = 403
+				res.statusCode = 403
 				console.log("Failed to fetch data",err)
 				return next()
 			}
