@@ -40,28 +40,28 @@ server.get("/dayly/sp500", function(req, res, next) {
 			fields = {symbol:1,name:1,price:1}
 
 
-		sp500.find(query, { name: 1 }).limit(1).toArray(function(err,data){
-			if(err) console.error(err)
-			else console.log(data)
-		})
-
-		// sp500.find(query,fields).limit(500).sort({_id:-1})
-		// .toArray(function(err, data){
-		// 	if(err){
-		// 		res.statusCode	 = 403
-		// 		console.log("Failed to fetch data",err)
-		// 		return next()
-		// 	}
-		// 	else{
-		// 		console.log(data);
-		// 		// db.currentOp()
-		// 		results.push(data)
-		// 		if(results.length == days.length){
-		// 			res.send(results)
-		// 			return next()
-		// 		}
-		// 	}
+		// sp500.find(query, { name: 1 }).limit(1).toArray(function(err,data){
+		// 	if(err) console.error(err)
+		// 	else console.log(data)
 		// })
+
+		sp500.find(query,fields).limit(500).sort({_id:-1})
+		.toArray(function(err, data){
+			if(err){
+				res.statusCode	 = 403
+				console.log("Failed to fetch data",err)
+				return next()
+			}
+			else{
+				console.log(data);
+				// db.currentOp()
+				results.push(data)
+				if(results.length == days.length){
+					res.send(results)
+					return next()
+				}
+			}
+		})
 	})
 })
 
