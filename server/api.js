@@ -17,27 +17,27 @@ server.use(Restify.CORS())
 server.pre(Restify.pre.sanitizePath())
 
 
-server.get('/dayly/sp500', function(req, res, next) {
+server.get("/dayly/sp500", function(req, res, next) {
 	var days = ["2015-05-15","2015-05-16","2015-05-17","2015-05-18"],
 		results = []
 
 	forEach(days,function(day){
-		var find = {
+		var query = {
 				time: {
 					$gt: new Date(day),
 					$lt: new Date(day) + 24 * 60 * 60 * 1000
 				}
 			},
-			fields = {_id:false,symbol:true,name:true,price:true,time:true}
+			fields = {symbol:1,name:1,price:1}
 
-		sp500.find(find,fields).limit(500).sort({id: 1 }).toArray(function(err, array){
+		sp500.find(query,fields).limit(500).sort({_id:-1}).toArray(function(err, data){
 			if(err){
 				res.statusCode = 403
-				console.log("Failed to fetch users",err)
+				console.log("Failed to fetch data",err)
 				return next()
 			}
 			else{
-				results.push(array)
+				results.push(data)
 				if(results.length == days.length){
 					res.send(results)
 					return next()
