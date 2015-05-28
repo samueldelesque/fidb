@@ -37,6 +37,7 @@ server.get("/dayly/sp500", function(req, res, next) {
 				return next()
 			}
 			else{
+				console.log(data);
 				results.push(data)
 				if(results.length == days.length){
 					res.send(results)
