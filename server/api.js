@@ -22,29 +22,31 @@ server.get('/dayly/sp500', function(req, res, next) {
 		results = []
 
 	forEach(days,function(day){
-		sp500.find({
+		var find = {
 				time: {
 					$gt: new Date(day),
 					$lt: new Date(day) + 24 * 60 * 60 * 1000
 				}
-			},{_id:false,symbol:true,name:true,price:true,time:true})
-		.limit(500)
-		.sort({id: 1 })
-		.toArray(function (err, array) {
-				if(err){
-					res.statusCode = 403
-					console.log("Failed to fetch users",err)
+			},
+			fields = {_id:false,symbol:true,name:true,price:true,time:true}
+
+		sp500.find(find,fields).limit(500).sort({id: 1 }).toArray(function(err, array){
+			if(err){
+				res.statusCode = 403
+				console.log("Failed to fetch users",err)
+				return next()
+			}
+			else{
+				results.push(array)
+				if(results.length == days.length){
+					res.send(results)
 					return next()
 				}
-				else{
-					results.push(array)
-					if(results.length == days.length){
-						res.send(results)
-						return next()
-					}
-				}
-			})
+			}
 		})
 	})
-	
+})
+
+server.listen(port, function() {
+  console.log('%s listening at %s', server.name, server.url)
 })
