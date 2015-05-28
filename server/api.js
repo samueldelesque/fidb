@@ -32,7 +32,7 @@ server.get("/dayly/sp500", function(req, res, next) {
 					},
 					{
 						time: {
-							$lt: new Date(day) + 24 * 60 * 60 * 1000
+							$lt: new Date(new Date(day).getTime() + 24 * 60 * 60 * 1000)
 						}
 					}
 				]
