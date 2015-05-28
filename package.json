@@ -13,6 +13,10 @@
     "mongodb": "~1.x",
     "mongolian": "~0.1.x",
     "fast-csv": "~0.6.0",
-    "for-each": "~0.3.x"
+    "for-each": "~0.3.x",
+    "chai": "~2.x",
+    "node-static": "~0.7.x",
+    "restify": "~2.x",
+    "validator": "~3.x"
   }
 }
