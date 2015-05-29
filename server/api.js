@@ -1,16 +1,16 @@
 var Restify = require('restify'),
-	Mongolian = require('mongolian'),
-	Mongolian = require('mongolian'),
-	ObjectId = require('mongolian').ObjectId,
+	Mongoose = require('mongoose'),
 	validator = require('validator'),
 	forEach = require("for-each"),
 	server = Restify.createServer({
 		name: "fidb"
 	}),
-	dbserver = new Mongolian,
-	db = dbserver.db("fidb"),
-	sp500 = db.collection("sp500"),
 	port = 5500
+
+Mongoose.connect("mongodb://localhost/fidb")
+
+var db = mongoose.connection
+db.on('error', console.error.bind(console, 'connection error:'))
 
 server.use(Restify.queryParser())
 server.use(Restify.bodyParser())
@@ -38,12 +38,6 @@ server.get("/dayly/sp500", function(req, res, next) {
 				]
 			},
 			fields = {_id:0,time:0}
-
-
-		// sp500.find(query, { name: 1 }).limit(1).toArray(function(err,data){
-		// 	if(err) console.error(err)
-		// 	else console.log(data)
-		// })
 
 		sp500.find(query,fields).limit(500).sort({time:-1})
 		.toArray(function(err, data){
